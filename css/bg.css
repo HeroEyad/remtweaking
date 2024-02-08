@@ -1,0 +1,14 @@
+.image-container {
+    width: 100%;
+    text-align: center;
+}
+
+.image-container img {
+    display: inline-block;
+}
+
+body {
+    background-image: url("bg/c98e5cb5bd77c3b65d973550fc0018eb.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
